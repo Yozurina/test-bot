@@ -1,1 +1,1 @@
-worker: python kaynbot.py
+worker: python filename.py
